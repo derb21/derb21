@@ -15,14 +15,13 @@ AdMob, and more
 - Rest API - Working with JSON Data
 - Unit Testing
 - Version Control
-- Adobe Experience - Illustrator, Photoshop, XD, Lightroom,
--D reamweaver
+- Adobe Experience - Illustrator, Photoshop, XD, Lightroom
 - UI/UX Design
 - Wire framing - Adobe XD
 
 ## I'm Currently Learning
 - Python
-- PHP
+- Ruby
 ## How to Reach Me
 - Email: dillenerb21@gmail.com
 ## Links to Projects
